@@ -1,3 +1,6 @@
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/U00-E06.dir
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lover/Desktop/EntregaParcial2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Usuario/Desktop/Prog3/repaso-funes-guevara-2304151/cmake-build-debug/CMakeFiles/Ej1.dir
+C:/Users/Usuario/Desktop/Prog3/repaso-funes-guevara-2304151/cmake-build-debug/CMakeFiles/Ej2.dir
+C:/Users/Usuario/Desktop/Prog3/repaso-funes-guevara-2304151/cmake-build-debug/CMakeFiles/Ej3.dir
+C:/Users/Usuario/Desktop/Prog3/repaso-funes-guevara-2304151/cmake-build-debug/CMakeFiles/Ej4.dir
+C:/Users/Usuario/Desktop/Prog3/repaso-funes-guevara-2304151/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Desktop/Prog3/repaso-funes-guevara-2304151/cmake-build-debug/CMakeFiles/rebuild_cache.dir
